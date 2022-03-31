@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+    <Page Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Ressources\Images\Logo.png" />
     <None Remove="Ressources\Images\sallecinema.jpg" />
   </ItemGroup>
@@ -18,10 +25,6 @@
   <ItemGroup>
     <Resource Include="Ressources\Images\Logo.png" />
     <Resource Include="Ressources\Images\sallecinema.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="NewFolder\" />
   </ItemGroup>
 
 </Project>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj": {}
+    "C:\\Users\\ahmed\\OneDrive\\TP214EH2022\\MonCine\\MonCine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj": {
+    "C:\\Users\\ahmed\\OneDrive\\TP214EH2022\\MonCine\\MonCine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj",
+        "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\TP214EH2022\\MonCine\\MonCine.csproj",
         "projectName": "MonCine",
-        "projectPath": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj",
-        "packagesPath": "C:\\Users\\gwen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\obj\\",
+        "projectPath": "C:\\Users\\ahmed\\OneDrive\\TP214EH2022\\MonCine\\MonCine.csproj",
+        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmed\\OneDrive\\TP214EH2022\\MonCine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gwen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

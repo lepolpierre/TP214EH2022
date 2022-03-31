@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\imezianetani\source\repos\TP0214E\MonCine\obj\Debug\netcoreapp3.1\
-MonCine
+C:\Users\gwen\Source\Repos\TP214EH2022\MonCine\obj\Debug\netcoreapp3.1\
+MonCine_wzgn4j30_wpftmp
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\imezianetani\source\repos\TP0214E\MonCine\App.xaml
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\gwen\Source\Repos\TP214EH2022\MonCine\App.xaml
 5677757127
 
-9-1675787790
-1982003447143
+15-270691148
+396-661365326
 MainWindow.xaml;Vues\Accueil.xaml;Vues\FAbonnes.xaml;Vues\FFilms.xaml;Vues\FProjections.xaml;
 
 False

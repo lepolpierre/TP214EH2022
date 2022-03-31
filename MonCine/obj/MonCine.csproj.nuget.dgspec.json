@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imezianetani\\source\\repos\\TP0214E\\MonCine\\MonCine.csproj": {}
+    "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imezianetani\\source\\repos\\TP0214E\\MonCine\\MonCine.csproj": {
+    "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imezianetani\\source\\repos\\TP0214E\\MonCine\\MonCine.csproj",
+        "projectUniqueName": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj",
         "projectName": "MonCine",
-        "projectPath": "C:\\Users\\imezianetani\\source\\repos\\TP0214E\\MonCine\\MonCine.csproj",
-        "packagesPath": "C:\\Users\\imezianetani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imezianetani\\source\\repos\\TP0214E\\MonCine\\obj\\",
+        "projectPath": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\MonCine.csproj",
+        "packagesPath": "C:\\Users\\gwen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gwen\\Source\\Repos\\TP214EH2022\\MonCine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\imezianetani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gwen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +42,7 @@
           "dependencies": {
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.13.3, )"
+              "version": "[2.15.0, )"
             }
           },
           "imports": [
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

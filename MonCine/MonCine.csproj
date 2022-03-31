@@ -20,4 +20,8 @@
     <Resource Include="Ressources\Images\sallecinema.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
